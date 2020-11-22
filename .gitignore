@@ -1,0 +1,6 @@
+# Ignore local files
+**/.idea/
+**/__pycache__/
+**/shelf/
+**/workspace.xml
+**/.ipynb_checkpoints/
