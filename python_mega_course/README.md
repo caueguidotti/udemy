@@ -25,5 +25,13 @@
 * Section 17
     * Application #2: Volcano & Population Web Map
     * Uses folium to create an interactive map
-    * My version creates a map with multiple layers that contains countries information such as absolute population, area, population density, and life
-expectancy
+    * My version creates a map with multiple layers that contains countries information such as absolute population, area, population density, and life expectancy
+* Section 18
+    * Basic code debugging tips
+* Section 19
+    * Application #3: Personal website
+    * HTML Templates and interactions with flask
+    * Web deployment with heroku
+    * Integration and maintenance of heroku app with github
+* Section 20
+    * GUI with tkinter
